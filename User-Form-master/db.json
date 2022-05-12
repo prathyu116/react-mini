@@ -1,0 +1,31 @@
+{
+  "user": [
+    {
+      "fullName": "prathyu3",
+      "age": "44",
+      "city": "kochi",
+      "department": "DevOps",
+      "salary": "20000",
+      "isMarried": false,
+      "id": 3
+    },
+    {
+      "fullName": "Afffg",
+      "age": "23",
+      "city": "Kanhangad",
+      "department": "DevOps",
+      "salary": "334323",
+      "isMarried": true,
+      "id": 4
+    },
+    {
+      "fullName": "zzzz",
+      "age": "23",
+      "city": "kochi",
+      "department": "Developer",
+      "salary": "20",
+      "isMarried": false,
+      "id": 5
+    }
+  ]
+}
