@@ -1,0 +1,24 @@
+{
+  "todos": [
+    {
+      "title": "cofea",
+      "status": false,
+      "id": 1
+    },
+    {
+      "title": "rrr",
+      "status": false,
+      "id": 2
+    },
+    {
+      "title": "kgf",
+      "status": true,
+      "id": 3
+    },
+    {
+      "title": "prathyu",
+      "status": false,
+      "id": 4
+    }
+  ]
+}
